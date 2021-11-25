@@ -33,7 +33,7 @@ Modify the pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7
    
    
 # Pre-trained model
-[ORSSD](https://pan.baidu.com/s/1tvT3pqKNgnHeO1kqKfPD8A) (code: prio)
+[ORSSD](https://pan.baidu.com/s/1LdUE8F11r61r8wk3Y9wPLA) (code: awqr)
 
 [EORSSD](https://pan.baidu.com/s/14LrEt1LW5QmZvkhsgbKgfg) (code: wm3p)
 
