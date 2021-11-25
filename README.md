@@ -53,8 +53,7 @@ Modify pathes of pre-trained model and datasets, then run test_MCCNet.py.
                 title = {Multi-Content Complementation Network for Salient Object Detection in Optical Remote Sensing Images},
                 journal = {IEEE Transactions on Geoscience and Remote Sensing},
                 year = {2021},
-                volume = {},
-                pages = {},}
+                }
                 
                 
 If you encounter any problems with the code, want to report bugs, etc.
