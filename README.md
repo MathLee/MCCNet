@@ -44,9 +44,7 @@ Modify the pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7
    You can use the [evaluation tool](http://dpfan.net/d3netbenchmark/) to evaluate the above saliency maps.
 
 
-# Related works on ORSI SOD
-
-   (**Summary**) [ORSI-SOD_Summary](https://github.com/MathLee/ORSI-SOD_Summary)
+# [ORSI-SOD_Summary](https://github.com/MathLee/ORSI-SOD_Summary)
    
 # Citation
         @ARTICLE{Li_2021_MCCNet,
