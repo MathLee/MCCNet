@@ -28,7 +28,7 @@
    
 # Training
 
-Modify pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7qrw) (code: ego5) and datasets, then run train_MCCNet.py or test_MCCNet.py.
+Modify pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7qrw) (code: ego5) and datasets, then run train_MCCNet.py.
 
 
 # Pre-trained model and testing
