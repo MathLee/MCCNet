@@ -15,6 +15,7 @@
    
 # Requirements
    python 2.7 + pytorch 0.4.0 or
+   
    python 3.7 + pytorch 1.9.0
    
 
