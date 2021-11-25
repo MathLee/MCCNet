@@ -50,7 +50,7 @@ Modify the pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7
         @ARTICLE{Li_2021_MCCNet,
                 author = {Gongyang Li and Zhi Liu and Weisi Lin and Haibin Ling},
                 title = {Multi-Content Complementation Network for Salient Object Detection in Optical Remote Sensing Images},
-                journal = {IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING},
+                journal = {IEEE Transactions on Geoscience and Remote Sensing},
                 year = {2021},
                 volume = {},
                 pages = {},}
