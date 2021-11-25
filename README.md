@@ -9,7 +9,7 @@
    
 # Multi-Content Complementation Module (MCCM)
    <div align=center>
-   <img src=https://github.com/MathLee/MCCNet/blob/main/images/MCCM.png width=55% />
+   <img src=https://github.com/MathLee/MCCNet/blob/main/images/MCCM.png width=52% />
    </div> 
    
    
