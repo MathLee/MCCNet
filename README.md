@@ -21,7 +21,7 @@
 
 # Usage
 
-Modify the pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7qrw) (code: ego5) and datasets, then run train_MCCNet.py or test_MCCNet.py
+Modify the pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7qrw) (code: ego5) and datasets, then run train_MCCNet.py or test_MCCNet.py.
 
 
 # Saliency maps
@@ -45,7 +45,7 @@ Modify the pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7
 
 # Related works on ORSI SOD
 
-   (**Summary**) [ORSI-SOD_Summary](https://github.com/MathLee/ORSI-SOD_Summary).
+   (**Summary**) [ORSI-SOD_Summary](https://github.com/MathLee/ORSI-SOD_Summary)
    
 # Citation
         @ARTICLE{Li_2021_MCCNet,
