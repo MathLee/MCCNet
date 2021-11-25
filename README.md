@@ -1,5 +1,5 @@
 # MCCNet
-   This project provides the code and results for 'Multi-Content Complementation Network for Salient Object Detection in Optical Remote Sensing Images', IEEE TGRS 2021.
+   This project provides the code and results for 'Multi-Content Complementation Network for Salient Object Detection in Optical Remote Sensing Images', IEEE TGRS, accepted, 2021.
  
  
 # Network Architecture
