@@ -5,8 +5,12 @@
 # Network Architecture
    <div align=center>
    <img src="https://github.com/MathLee/MCCNet/blob/main/images/MCCNet.png">
-   <img src="https://github.com/MathLee/MCCNet/blob/main/images/MCCM.png">
    </div>
+   
+# Multi-Content Complementation Module (MCCM)
+   <div align=center>
+   <img src="https://github.com/MathLee/MCCNet/blob/main/images/MCCM.png">
+   </div> 
    
    
 # Requirements
