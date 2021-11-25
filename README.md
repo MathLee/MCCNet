@@ -22,7 +22,7 @@
 # Saliency maps
    We provide saliency maps of [all compared methods](https://pan.baidu.com/s/1TP6An1VWygGUy4uvojL0bg) (code: 5np3) and [our MCCNet](https://pan.baidu.com/s/10JIKL2Q48RvBGeT2pmPfDA) (code: 3pvq) on ORSSD and EORSSD datasets.
    
-   In addition, we also provide saliency maps of our MCCNet on the recently published [ORSI-4199](https://pan.baidu.com/s/1dz-GeELIqMdzKlPvzETixA) (code: 413m) dataset.
+   In addition, we also provide [saliency maps of our MCCNet](https://pan.baidu.com/s/1dz-GeELIqMdzKlPvzETixA) (code: 413m) on the recently published [ORSI-4199](https://github.com/wchao1213/ORSI-SOD) dataset.
    
    ![Image](https://github.com/MathLee/MCCNet/blob/main/images/table.png)
    
