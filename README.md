@@ -19,11 +19,6 @@
    python 3.7 + pytorch 1.9.0
    
 
-# Usage
-
-Modify the pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7qrw) (code: ego5) and datasets, then run train_MCCNet.py or test_MCCNet.py.
-
-
 # Saliency maps
    We provide saliency maps of [all compared methods](https://pan.baidu.com/s/1TP6An1VWygGUy4uvojL0bg) (code: 5np3) and [our MCCNet](https://pan.baidu.com/s/10JIKL2Q48RvBGeT2pmPfDA) (code: 3pvq) on ORSSD and EORSSD datasets.
    
@@ -31,8 +26,14 @@ Modify the pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7
    
    ![Image](https://github.com/MathLee/MCCNet/blob/main/images/table.png)
    
-   
-# Pre-trained model
+# Training
+
+Modify pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7qrw) (code: ego5) and datasets, then run train_MCCNet.py or test_MCCNet.py.
+
+
+# Pre-trained model and testing
+Modify pathes of pre-trained model and datasets, then run test_MCCNet.py.
+
 [ORSSD](https://pan.baidu.com/s/1LdUE8F11r61r8wk3Y9wPLA) (code: awqr)
 
 [EORSSD](https://pan.baidu.com/s/14LrEt1LW5QmZvkhsgbKgfg) (code: wm3p)
