@@ -32,7 +32,7 @@ Modify pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7qrw)
 
 
 # Pre-trained model and testing
-Modify pathes of pre-trained model and datasets, then run test_MCCNet.py.
+Download the following pre-trained model, and modify pathes of pre-trained model and datasets, then run test_MCCNet.py.
 
 [ORSSD](https://pan.baidu.com/s/1LdUE8F11r61r8wk3Y9wPLA) (code: awqr)
 
