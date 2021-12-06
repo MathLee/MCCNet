@@ -28,7 +28,7 @@
    
 # Training
 
-We get the ground truth of edge using [sal2edge.m](https://github.com/JXingZhao/EGNet/blob/master/sal2edge.m) in [EGNet](https://github.com/JXingZhao/EGNet).
+We get the ground truth of edge using [sal2edge.m](https://github.com/JXingZhao/EGNet/blob/master/sal2edge.m) in [EGNet](https://github.com/JXingZhao/EGNet)，and use data_aug.m for data augmentation.
 
 Modify pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7qrw) (code: ego5) and datasets, then run train_MCCNet.py.
 
