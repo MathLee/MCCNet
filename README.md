@@ -55,7 +55,7 @@ Download the following pre-trained model, and modify pathes of pre-trained model
                 title = {Multi-Content Complementation Network for Salient Object Detection in Optical Remote Sensing Images},
                 journal = {IEEE Transactions on Geoscience and Remote Sensing},
                 year = {2021},
-                url={10.1109/TGRS.2021.3131221},
+                doi={10.1109/TGRS.2021.3131221},
                 }
                 
                 
