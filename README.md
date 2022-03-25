@@ -50,7 +50,7 @@ Download the following pre-trained model, and modify pathes of pre-trained model
 # [ORSI-SOD_Summary](https://github.com/MathLee/ORSI-SOD_Summary)
    
 # Citation
-        @ARTICLE{Li_2021_MCCNet,
+        @ARTICLE{Li_2022_MCCNet,
                 author = {Gongyang Li and Zhi Liu and Weisi Lin and Haibin Ling},
                 title = {Multi-Content Complementation Network for Salient Object Detection in Optical Remote Sensing Images},
                 journal = {IEEE Transactions on Geoscience and Remote Sensing},
